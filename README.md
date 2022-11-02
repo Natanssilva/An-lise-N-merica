@@ -6,7 +6,7 @@ Projeto com ênfase em javascript
   <video src="" >
 </div>
 
-> Acesse o projeto online **[AQUI]()**
+> Acesse o projeto online **[AQUI](https://analisenum1.netlify.app/)**
 ## 🚀 Tecnologias utilizadas
 
 - [HTML5] 
