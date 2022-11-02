@@ -1,2 +1,2 @@
-# An-lise-N-merica
+# Análise Númerica
 Projeto com ênfase em javascript 
