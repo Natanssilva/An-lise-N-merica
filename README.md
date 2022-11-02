@@ -3,7 +3,7 @@ Projeto com ênfase em javascript
 
 ## 📹 Apresentação do projeto
 <div align="center">
-  <video src="" >
+  <img src="https://user-images.githubusercontent.com/99294586/199591227-8f227c6a-08ab-4693-abf1-6f6e4ae1223a.jpeg" >
 </div>
 
 > Acesse o projeto online **[AQUI](https://analisenum1.netlify.app/)**
