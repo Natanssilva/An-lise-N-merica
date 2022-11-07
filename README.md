@@ -1,5 +1,5 @@
 # Análise Númerica
-Projeto com ênfase em javascript 
+Projeto com ênfase em praticar javascript na web 
 
 ## 📹 Apresentação do projeto
 <div align="center">
