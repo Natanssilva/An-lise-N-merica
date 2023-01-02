@@ -3,10 +3,10 @@ Projeto com ênfase em praticar javascript na web
 
 ## 📹 Apresentação do projeto
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/99294586/199591227-8f227c6a-08ab-4693-abf1-6f6e4ae1223a.jpeg" >
+  <img src="" >
 </div>
 
-> Acesse o projeto online **[AQUI](https://analisenum1.netlify.app/)**
+> Acesse o projeto online **[AQUI]()**
 ## 🚀 Tecnologias utilizadas
 
 - [HTML5] 
