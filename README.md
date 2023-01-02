@@ -3,7 +3,7 @@ Projeto com ênfase em praticar javascript na web
 
 ## 📹 Apresentação do projeto
 <div align="center">
-  <img src="" >
+  <img src="https://user-images.githubusercontent.com/99294586/210263424-71726180-e39f-4bf2-8feb-df3140590cc8.jpeg" >
 </div>
 
 > Acesse o projeto online **[AQUI]()**
